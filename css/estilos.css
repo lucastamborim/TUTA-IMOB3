@@ -1,0 +1,143 @@
+* {
+	
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+body {
+
+	background: linear-gradient(90deg,  #3B4D5B, #6EA5AC );
+	overflow: hidden;
+
+
+
+}
+
+/* Cabeçalho ---------------------------------------------- */
+
+	.tutaimob {
+
+		background-color: transparent;
+		height: 50px ;
+		width: 230px;
+		position: absolute;
+		font-size: 40px;
+		margin-top: 5px;
+		margin-left: 50px;
+		font-family: 'Inter', sans-serif;
+		font-family: 'Paytone One', sans-serif;
+		color: white;
+		
+
+
+	}
+
+	.maisopcoes {
+
+	color: white;
+	font-size: 18px;
+	word-spacing: 10px;
+	margin-top: 30px;
+	float: right;
+	margin-right: 100px;
+	font-family: 'Inter', sans-serif;
+		
+	}
+
+hr {
+
+	
+}
+
+ /* corpo----------------------------------------------- */
+
+.informacao {
+
+	background-color: transparent;
+	height: 500px;
+	width: 1000px;
+	margin: 50px;
+}
+
+	.titulo {
+
+		font-size: 80px;
+		font-family: 'Inter', sans-serif;
+		color: white;
+		line-height: 90px;
+	}
+
+		.diferente {
+
+			color: #7DE4A9;
+			font-family: 'Inter', sans-serif;
+			font-family: 'Paytone One', sans-serif;
+
+		}
+
+	.desc {
+
+			font-size: 18px;
+			color: white;
+			margin-left: 15px;
+			font-family: arial;
+
+	}
+
+		.login {
+
+		height: 56px;
+		width: 500px;
+		margin-left: 40px;
+		padding-left: 10px;
+		border-radius: 15px;
+		border: solid 2px ;
+		background-color: rgba(40,50,60,0.4);
+		color: #283747;
+
+	}	
+
+
+	a.comprar {
+
+		text-decoration: none;
+			align-items: center;
+			background-color: #7DE4A9;
+			justify-content: center;
+				font-family: 'Inter', sans-serif;
+
+			
+	height: 56px;
+	width: 250px;
+
+			border: solid 2px ;
+			border-radius: 10px;
+			font-size: 16px;	
+			display: flex;
+			color: #283747;
+			margin: 0 auto;
+	margin-left: 40px;
+
+	}
+
+.circulo {
+
+	background-color: #7DE4A9;
+	height: 720px;
+	width: 720px;
+	position: absolute;
+	margin-left: 900px;
+	margin-top: -500px;
+	border-radius: 2500px;
+	z-index: -1;
+
+}	
+
+.logo {
+
+	position: absolute;
+	margin-left: 980px;
+	margin-top: -425px;
+	width: 28%;
+}	
